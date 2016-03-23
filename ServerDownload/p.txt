@@ -1,0 +1,11 @@
+//// alternate e: trungpv.94@outlook.com/ current bas
+/////////
+//// dont know thep. procedure. all new.
+/////////
+//// verification code e2/sdt.
+
+
+///// WAN inteface setup -->  PPPoE
+////// t054_ftth_hungpv4  ||||| Hah352
+
+/////  go to Quick Setup --> WLAN inteface setup --> channel width 20MHz --> 
